@@ -43,10 +43,8 @@
 
 ### **⚡ Recent Activity**
 <!--START_SECTION:activity-->
-1. 🛠 Opened a new issue on [some-repo](https://github.com/)
-2. 🎉 Merged a pull request in [another-repo](https://github.com/)
-3. 💬 Commented on an issue in [cool-project](https://github.com/)
 <!--END_SECTION:activity-->
+
 
 ---
 
