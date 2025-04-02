@@ -35,8 +35,8 @@
 
 ### **📊 GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=pessima-au&show_icons=true&theme=dark" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessima-au&layout=compact&theme=dark" height="160">
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ---
 
 ### **👀 Visitor Count**
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=pessima-au&color=blue)
 
 ---
 
